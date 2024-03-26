@@ -1,0 +1,22 @@
+/*
+css usato per centrare la finestra del gioco nella finestra del browser 
+*/
+
+
+html, body 
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+body 
+{
+    /*background-color:white;*/
+    display: flex;
+    align-items: center;        /*centra verticalmente il canvas*/  
+    justify-content: center;        /*centra orizzontalmente il canvas*/
+}
+canvas 
+{
+    display: block;
+}
