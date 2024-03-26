@@ -12,3 +12,8 @@ When the game starts, you have to press ENTER to enter in the "select level" scr
 In the game you can jump with SPACE and you have to pass between obstacles.
 
 When you die because you have hit a wall you can see your final score and you can return to the "select level" screen.
+
+
+### Installation:
+
+You have to donwload the folder with the game, then you have to install VSC and open the game with Live Server.
